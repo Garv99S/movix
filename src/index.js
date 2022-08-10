@@ -1,7 +1,7 @@
 import reactdom from 'react-dom';
-import "index.css"
-import Card from "Cards.jsx"
-import Data from "Data.jsx"
+import "./index.css"
+import Card from "./Cards.jsx"
+import Data from "./Data.jsx"
 
 
 const Ncard = (fjf) => {
