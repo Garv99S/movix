@@ -1,13 +1,78 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+*{
+  padding: 0;
+  margin:0;
+  background-color: rgb(231, 220, 220);
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.head{
+  margin:20px 40px;
 }
+
+.heading{
+  text-align: center;
+  padding:1.5rem;
+  background-image: linear-gradient(to right, rgb(116, 37, 244) , rgb(12, 197, 129));
+  text-shadow: 4px 2px grey;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+  font-weight:700;
+}
+
+.heading:hover{
+  transform:scale(1.03,1.03);
+}
+
+.cards{
+  width:100%;
+  height:auto;
+  
+}
+
+.card{
+  margin :6%;
+  transition:all 0.4s cubic-bezier(0.175,0.885,0,1);
+  background-color:  white;
+  width : 21.25%;
+  border-radius:12px;
+  box-shadow: 8px 10px 30px 3px rgba(0,0,0,0.7);
+  float:left;
+  
+}
+
+.card:hover{
+  box-shadow: 8px 10px 30px 3px rgba(0,0,0,0.9);
+  transform:scale(1.05,1.05);
+}
+
+img{
+  width:100%;
+  height:100%;  
+}
+
+.card_info{
+  font-family: 'Oswald', sans-serif;
+  background-color: white;
+  border-radius:12px;
+  padding:10px;
+}
+
+.card_category,.card_title, a, button{ 
+  background-color: white;
+  font-weight: 100;
+}
+
+button{
+  padding:3px;
+  width:50%;
+  background-color: aliceblue;
+  border: 2px solid black;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  box-shadow: 8px 10px 30px 3px rgba(0,0,0,0.9);
+}
+
