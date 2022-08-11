@@ -1,7 +1,7 @@
 # Movix
 
-[![Language](https://img.shields.io/badge/Language-Javascript-blue.svg?style=flat)](https://www.javascript.com/)
-[![Library](https://img.shields.io/badge/Library-Reactjs-brightgreen.svg?style=flat)](https://reactjs.org/)
+[![Language](https://img.shields.io/badge/Language-Javascript-brightgreen.svg?style=flat)](https://www.javascript.com/)
+[![Library](https://img.shields.io/badge/Library-Reactjs-red.svg?style=flat)](https://reactjs.org/)
 
 # About the Project
 - A Movie cum web-series gallery
