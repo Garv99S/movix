@@ -24,7 +24,7 @@ To setup in local system follow the instructions
 - Download [Node Js and npm(Node package manager)](https://nodejs.org/en/) (npm is installed by default on installing Node)
 - Clone the repository by running the command:
 ```
-git clone <repo_name>
+git clone git@github.com:Garv99S/movix.git
 ```
 In your GitBash or terminal of VS Code.
 - Run the command `cd movix`
