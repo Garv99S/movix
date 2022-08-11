@@ -1,9 +1,9 @@
-# Movix
+
 
 [![Language](https://img.shields.io/badge/Language-Javascript-brightgreen.svg?style=flat)](https://www.javascript.com/)
 [![Library](https://img.shields.io/badge/Library-Reactjs-red.svg?style=flat)](https://reactjs.org/)
 
-# About the Project
+# About the Project - Movix
 - A Movie cum web-series gallery
 
 # Tech Stack Used
