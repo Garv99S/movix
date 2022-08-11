@@ -1,4 +1,4 @@
-# movix
+# Movix
 
 [![Language](https://img.shields.io/badge/Language-Javascript-blue.svg?style=flat)](https://www.javascript.com/)
 [![Library](https://img.shields.io/badge/Library-Reactjs-brightgreen.svg?style=flat)](https://reactjs.org/)
