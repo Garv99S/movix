@@ -31,3 +31,6 @@ In your GitBash or terminal of VS Code.
 - Run `npm install` to install all dependencies for the project.
 - Run `npm start` to start the project on localhost:3000 in your chosen browser.
 - Now view the project in your local environment.
+
+## React Project Deployment
+[Movix - A Movie cum web-series gallery](https://movix-react-project.netlify.app)
