@@ -20,4 +20,4 @@ reactdom.render(
         <div className='head'><h1 className='heading'>List of Some Awesome Movies and Web-series... </h1></div>
         {Data.map(Ncard)}
     </>,document.getElementById('root')
-)
+);
